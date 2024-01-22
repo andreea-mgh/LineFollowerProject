@@ -13,7 +13,7 @@ Assemble a robot that follows a black line using onboard sensors. Implement a PI
 
 * Arduino Uno
 * Zip-ties
-* Power source (can be of different shape). In our case, a LiPo battery
+* Power source: a LiPo battery
 * Wheels (2)
 * Wires for the line sensor (female - male)
 * QTR-8A reflectance sensor, along with screws
